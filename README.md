@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou o Felipe</h1>
-<h3 align="center">Um desenvolvedor frontend apaixonado da Índia</h3>
+<h3 align="center">Um desenvolvedor frontend apaixonado do brasil</h3>
 
 - 🌱 Atualmente estou aprendendo **c/c++, c#,MySQN**
 
